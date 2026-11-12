@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="fondo_oscuro">#0B0E14</color>
+    <color name="tarjeta_oscura">#151A24</color>
+
+    <color name="neon_azul">#00F0FF</color>
+    <color name="neon_verde">#39FF14</color>
+    <color name="neon_rojo">#FF073A</color>
+
+    <color name="fondo_azul">#032B43</color>
+    <color name="fondo_verde">#063B17</color>
+    <color name="fondo_rojo">#3D0712</color>
+</resources>
